@@ -1,4 +1,4 @@
-# Alter-Eco
+# SpotiSight
 
 🎵 A dynamic and detailed visualization of your overall listening trends on Spotify! 
 ![SpotiSight Logo](Logo.png)
